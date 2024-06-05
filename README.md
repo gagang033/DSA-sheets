@@ -4,6 +4,7 @@ DSA sheets that contain questions along with learning resources
 ## Sheets added in the repo:
 - Arrays
 - Linked List
+- Stack
 - More coming soon...
 
 ## How to use the sheets?
